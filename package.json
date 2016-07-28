@@ -1,0 +1,33 @@
+{
+  "name": "letdo",
+  "version": "1.0.0",
+  "description": "这是一个react + koa 项目",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^1.2.0",
+    "react": "^15.2.1",
+    "socket.io": "^1.4.8"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "babel-register": "^6.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulv/letdo.git"
+  },
+  "keywords": [
+    "react",
+    "koa"
+  ],
+  "author": "sulv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sulv/letdo/issues"
+  },
+  "homepage": "https://github.com/sulv/letdo#readme"
+}
